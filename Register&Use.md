@@ -120,4 +120,6 @@ claude
 
 # 提示：Try "fix typecheck errors"中输入问题即可
 ```
-**补充：claude code命令（https://zhuanlan.zhihu.com/p/1928918331810886674）**
+**补充：**
+**claude code命令（https://zhuanlan.zhihu.com/p/1928918331810886674）**
+**claude 开发者文档（https://docs.claude.com/en/api/openai-sdk）**
